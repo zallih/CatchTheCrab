@@ -22,7 +22,12 @@ Neste joga terá caranguejos spawnando aleatoriamente você terá que destrui-lo
     
    <br><br>
 
-  Para jogar baixe o aquivivo e execute - <a href="https://github.com/zallih/CatchTheCrab/blob/main/CatchTheCrab.jar?raw=true">Clique aqui para baixar o arquivo jar</a>
+  Para jogar baixe o aquivivo e execute:
+  
+  Para baixar o arquivo jar - <a href="https://github.com/zallih/CatchTheCrab/blob/main/CatchTheCrab.jar?raw=true">Clique aquir</a>
+  
+  Para baixar o arquivo exe - <a href="https://github.com/zallih/CatchTheCrab/blob/main/CatchTheCrab.exe?raw=true">Clique aquir</a>
+  
   <br>
   OBS - Pode aparecer que irá danificar seu aprelho, porem é completamente seguro! Caso queira conferir o código fonte <a href="https://github.com/zallih/CatchTheCrab/tree/main/CatchTheCrab"> Clique aqui </a>
 
